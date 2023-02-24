@@ -10,4 +10,6 @@ Marble shell theme: https://www.gnome-look.org/p/1977647/
 
 Adwaita++ icon theme: https://github.com/Bonandry/adwaita-plus
 
+GoogleDot Cursor: https://github.com/ful1e5/Google_Cursor
+
 ``lean.json`` is the Gradience theme, place this in ``~/.config/presets/user/``, and set in Gradience accordingly.
