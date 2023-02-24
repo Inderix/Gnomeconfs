@@ -9,3 +9,5 @@ Marble shell theme: https://www.gnome-look.org/p/1977647/
 (I use dark-purple)
 
 Adwaita++ icon theme: https://github.com/Bonandry/adwaita-plus
+
+``lean.json`` is the Gradience theme, place this in ``~/.config/presets/user/``, and set in Gradience accordingly.
